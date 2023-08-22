@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f364d61-ea82-4913-a3c4-71c28ea3d2b3" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="6f364d61-ea82-4913-a3c4-71c28ea3d2b3" name="Default Changelist" comment="Improved excel report">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telco Customer Churn Analysis.pbix" beforeDir="false" afterPath="$PROJECT_DIR$/Telco Customer Churn Analysis.pbix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telco-Customer-Churn excel.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Telco-Customer-Churn excel.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +40,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692244472797</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Improved excel report">
+      <created>1692323586334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692323586334</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -49,9 +60,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Improved excel report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improved excel report" />
   </component>
 </project>
